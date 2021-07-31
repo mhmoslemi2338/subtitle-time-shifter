@@ -5,8 +5,10 @@ import sys
 
 
 
-
-sec=float(sys.argv[2])
+try:
+    sec=float(sys.argv[2])
+except IndexError:
+    print("Not enough agruments inserted - first enter .srt file name then enter seconds")
 
 def convert(seconds):
     min_, sec = divmod(seconds, 60)
