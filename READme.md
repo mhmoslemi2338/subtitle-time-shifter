@@ -6,7 +6,7 @@ but what if you can change the original subtitle file
 for example if you want to make sub-file 1.3seconds faster you can easy navigate your cmd(on windows) or terminal(on linux) to subtitle directory and
 do this :
 
-### Example for 1.3 seconds forward : 
+#### Example for 1.3 seconds forward : 
 
 
 
