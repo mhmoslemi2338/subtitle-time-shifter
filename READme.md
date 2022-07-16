@@ -11,5 +11,5 @@ do this :
 
 
 ```
-$ python3 sub_shift.py House.of.Cards.2013.S01E05.srt 1.3
+$ python3 sub_shift.py your_subtitle.srt 1.3
 ```
