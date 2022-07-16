@@ -9,12 +9,7 @@ do this :
 ### Example for 1.3 seconds forward : 
 
 
-**windows :** 
-```
-python sub_shift.py file.srt 1.3
-```
 
-**Linux :**
 ```
 $ python3 sub_shift.py file.srt 1.3
 ```
